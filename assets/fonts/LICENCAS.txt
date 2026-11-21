@@ -1,0 +1,2 @@
+Syne, Manrope e JetBrains Mono são distribuídas sob a SIL Open Font License 1.1
+(https://openfontlicense.org). Arquivos obtidos via Fontsource (https://fontsource.org).
